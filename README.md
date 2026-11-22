@@ -45,7 +45,11 @@ Counting events are saved in counting_results.csv.
 
 ## Project Author
 Group Project - Visual Computing
+
 samhitha vasanthu - 92400110707
+
 pilli Nandhini - 92400110500
+
 Manasa Daivamdinne - 92400110320
+
 Ashritha Lakkireddy - 92400110337
